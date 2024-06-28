@@ -1,0 +1,15 @@
+.input {
+    height: 75px;
+    border-radius: 50px;
+    margin: 20px 8px 20px 8px;
+    display: flex;
+    justify-content: flex-end;/*esto es para que el texto se alinie desde la derecha*/
+    align-items: center; /*para centrarlo verticalmente*/
+    font-weight: bold;
+    font-size: 30px;
+    background-color:#0a0a23;
+    color: white;
+    padding: 11px;
+    padding-right: 30px;
+    box-shadow: -1px 4px 1px 1px white;
+}
